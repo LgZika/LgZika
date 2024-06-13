@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![facoProgramaCamisa(/facoProgramaCamisa.png)
+![facoProgramaCamisa(facoProgramaCamisa.png)
 
 <!--
 **LgZika/LgZika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
